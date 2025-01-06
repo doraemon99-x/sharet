@@ -1061,6 +1061,30 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: beIN Sports 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SHAREEXT@THAILAND ➾ Sports",TH: beINSports 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/302365
+#EXTINF:-1 tvg-id="" tvg-name="TH: T Sports 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-09/e90d9580e214f9ba8d33c402abb4d906.png" group-title="SHAREEXT@THAILAND ➾ Sports",TH: T Sports 7
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/305381
+#EXTINF:-1 tvg-id="" tvg-name="TH: True Premiere Football 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/590ebca19cefce3b34411f40e945241d.png" group-title="SHAREEXT@THAILAND ➾ Sports",TH: TruePremiere Football 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162591
+#EXTINF:-1 tvg-id="" tvg-name="TH: True Premiere Football 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/45eb7daf6bfd21ae32e1d90a7e1cf4ca.png" group-title="SHAREEXT@THAILAND ➾ Sports",TH: TruePremiere Football 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162592
+#EXTINF:-1 tvg-id="" tvg-name="TH: True Premiere Football 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/27c8b74a092a2d21cc9d58e8d38a5351.png" group-title="SHAREEXT@THAILAND ➾ Sports",TH: TruePremiere Football 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165101
+#EXTINF:-1 tvg-id="" tvg-name="TH: True Premiere Football 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/95f5af43f788769965d06381fd2d9c19.png" group-title="SHAREEXT@THAILAND ➾ Sports",TH: TruePremiere Football 4
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162593
+#EXTINF:-1 tvg-id="" tvg-name="TH: True Premiere Football 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/ddd9fad595f648f0bb48f354f43be9f6.png" group-title="SHAREEXT@THAILAND ➾ Sports",TH: TruePremiere Football 5
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/145033
+#EXTINF:-1 tvg-id="" tvg-name="TH: True Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/da0e484705b268036f917eacfa324bc8.png" group-title="SHAREEXT@THAILAND ➾ Sports",TH: TrueSport 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304834
+#EXTINF:-1 tvg-id="" tvg-name="TH: True Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/ae2205185399dab87a15fb81161f8d48.png" group-title="SHAREEXT@THAILAND ➾ Sports",TH: TrueSport 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304833
+#EXTINF:-1 tvg-id="" tvg-name="TH: True Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/43648065b507b5ddf80627c4074eec0c.png" group-title="SHAREEXT@THAILAND ➾ Sports",TH: TrueSport 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/301871
+#EXTINF:-1 tvg-id="" tvg-name="TH: True Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/5f7b81ae336629c71d84283bcf1669a1.png" group-title="SHAREEXT@THAILAND ➾ Sports",TH: TrueSport 4
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/285569
+
 #EXTINF:-1  group-title="SHAREEXT@THAILAND ➾ Sports" tvg-logo="https://media-mvtv-app.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png",T SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
@@ -4702,7 +4726,52 @@ https://director.streaming.telia.com/tvm-packager-prod/group2/60ae45e51522bd66f4
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 1{4K}
+http://45.139.122.148:8000/play/a004
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 2{4K}
+http://45.139.122.148:8000/play/a005
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 3{4K}
+http://45.139.122.148:8000/play/a006
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 4{4K}
+http://45.139.122.148:8000/play/a007
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 5{4K}
+http://45.139.122.148:8000/play/a008
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 6{4K}
+http://45.139.122.148:8000/play/a009
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 7{4K}
+http://45.139.122.148:8000/play/a00a
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 8{4K}
+http://45.139.122.148:8000/play/a00b
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",beIN 9{4K}
+http://45.139.122.148:8000/play/a00c
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",ssc 1 {4K}
+http://45.139.122.148:8000/play/a00d
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",ssc 2 {4K}
+http://45.139.122.148:8000/play/a00e
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",ssc 3 {4K}
+http://45.139.122.148:8000/play/a00f
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",ssc 4 {4K}
+http://45.139.122.148:8000/play/a00g
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",ssc 5 {4K}
+http://45.139.122.148:8000/play/a00h
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",ssc news {4K}
+http://45.139.122.148:8000/play/a00l
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",ssc xtra 1 {4K}
+http://45.139.122.148:8000/play/a00i
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",ssc xtra 2 {4K}
+http://45.139.122.148:8000/play/a00j
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",ssc xtra 3 {4K}
+http://45.139.122.148:8000/play/a00k
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",AD Sport Asia 1 {4K}
+http://45.139.122.148:8000/play/a00t
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",AD Sport Asia 2 {4K}
+http://45.139.122.148:8000/play/a00u
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",AD Sport Premium 1 {4K}
+http://45.139.122.148:8000/play/a00q
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",AD Sport Premium 2 {4K}
+http://45.139.122.148:8000/play/a00r
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS",StarzPlay Sport {4K}
+http://45.139.122.148:8000/play/a00s
 
 #EXTINF:-1  group-title="SHAREEXT@BEINSPORTS ➾  CHANNELS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEINSPORTS NEWS
 http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/290371
