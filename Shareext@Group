@@ -7716,6 +7716,41 @@ http://iptv12k.com:35461/654321/123456/2114
 #EXTINF:-1  tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" group-title="Shareext@MOVIES",[MY]  BOO
 http://iptv12k.com:35461/654321/123456/722
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: Macau Lotus TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/a2de6ff0f4df330c3c936427246c0327.png" group-title="Shareext@MOVIES",ID: Macau Lotus TV {aflax}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304362
+#EXTINF:-1 tvg-id="" tvg-name="ID: My Cinema" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="Shareext@MOVIES",ID: My Cinema {aflax}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298553
+#EXTINF:-1 tvg-id="" tvg-name="ID: My Cinema Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="Shareext@MOVIES",ID: My Cinema Asia {aflax}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298554
+#EXTINF:-1 tvg-id="" tvg-name="ID: Rock Entertaiment" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="Shareext@MOVIES",ID: Rock Entertaiment {aflax}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298565
+#EXTINF:-1 tvg-id="" tvg-name="ID: Thrill" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="Shareext@MOVIES",ID: Thrill {aflax}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157580
+#EXTINF:-1 tvg-id="" tvg-name="ID: TVN Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="Shareext@MOVIES",ID: TVN Movies {aflax}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157596
+#EXTINF:-1 tvg-id="" tvg-name="ID: Zee Bioskop" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="Shareext@MOVIES",ID: Zee Bioskop {aflax}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157584
+#EXTINF:-1 tvg-id="" tvg-name="ID: Bioskop Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="Shareext@MOVIES",ID: Bioskop Indonesia {aflax}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264801
+#EXTINF:-1 tvg-id="" tvg-name="ID: Celestial Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="Shareext@MOVIES",ID: Celestial Movies {aflax}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165065
+#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="Shareext@MOVIES",ID: Galaxy {aflax}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264773
+#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="Shareext@MOVIES",ID: Galaxy Premium {aflax}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264774
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Shareext@MOVIES",ID: HBO {aflax}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Shareext@MOVIES",ID: HBO Family {aflax}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197055
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Shareext@MOVIES",ID: HBO Hits {aflax}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/196480
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Shareext@MOVIES",ID: HBO Signature {aflax}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221948
+#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Drama" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="Shareext@MOVIES",ID: Citra Drama {aflax}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264748
+#EXTINF:-1 tvg-id="" tvg-name="ID: Hits Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="Shareext@MOVIES",ID: Hits Movies {aflax}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221947
+
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/hbosingnature.png" group-title="Shareext@MOVIES", HBO Signature(pft)televizo
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1558
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/qj.png" group-title="Shareext@MOVIES", QJ(pft)televizo
