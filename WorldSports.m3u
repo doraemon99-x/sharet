@@ -58,27 +58,6 @@ http://lb.wisp.cat/lb0/TV3_SPORT_OPEN_HD/video.m3u8?token=7jfxcz8
 http://lb.wisp.cat/lb0/LT_VIASAT_SPORT_BALTIC_HD/video.m3u8?token=7jfxcz8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport2.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", Go3Sport 2
 http://lb.wisp.cat/lb0/SDI_TVPLAY_SPORTS_PLUS/video.m3u8?token=7jfxcz8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",beINSports 1 [astro]
-http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857412
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",beINSports 2 [astro]
-http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857413
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",beINSports 3 [astro]
-http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857414
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",Eurosport [astro]
-http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857415
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPOTV [astro]
-http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857416
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPOTV 2 [astro]
-http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857417
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SuperSport 1 [astro]
-http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857418
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SuperSport 2 [astro]
-http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857419
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SuperSport 3 [astro]
-http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857420
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SuperSport 4 [astro]
-http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857421
 #EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", 🇲🇾 Unifi (UFC live) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
