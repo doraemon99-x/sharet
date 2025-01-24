@@ -159,11 +159,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png",🇲🇨 Sportstars 2 HD_mpd(ott.nav)
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/640px-Sportstars_3.png" group-title="ShareExt@Relax",🇲🇨 SPORTSTAR 3 HD_mpd(ott.nav)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sport24.biz.id/tes/clearkey/v+/get?id=1002
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
 #EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="ShareExt@Relax", Unifi_mpd (UFC live) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -585,46 +580,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sports
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Spotv_VISION+
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
-#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_1.png", ChampionsTV1_mpd [ott.nav]
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
-https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=17938
-
-#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_2.png", ChampionsTV2_mpd [ott.nav]
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
-https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=17939
-
-#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_3.png", ChampionsTV3_mpd [ott.nav]
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
-https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=6786
-
-#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_5.png", ChampionsTV5_mpd [ott.nav]
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7af7c0ac3c77478be9712bfc0f0d28b4:845b9d91cefb70530380e8749d8dc201
-https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=9182
-
-#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_6.png", ChampionsTV6_mpd [ott.nav]
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ca1cf7890604c98959160aa80a8fc3e:4a545ab7495d40f186a5bf3d88d47802
-https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=9183
-
 #EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID1.png", BeinSports 1_mpd [V+]
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -663,12 +618,12 @@ http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34331
 
 #EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png", RCTI_VISION+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://cumbo.tauogiaslix.workers.dev/
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
 
 #EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png", GTV_VISION+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://cumbo.tauogiaslix.workers.dev/
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
 
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",INDOSIAR-HD(cdn)
