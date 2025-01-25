@@ -188,11 +188,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=125432&uid=7238&deviceMac=00:1A:79:22
 
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(top)
 http://viprtea.top:8080/VIP016101734802754285/785a4461460b/34327
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",INDOSIAR(xyz)
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png",INDOSIAR(xyz)
 http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34327 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",INDOSIAR(play)
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png",INDOSIAR(play)
 http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",INDOSIAR(git)
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png",INDOSIAR(git)
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(kd)
 http://tv.kudigital.pw:8080/28122024KM/28122024/27
