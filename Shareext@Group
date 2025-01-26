@@ -7887,7 +7887,7 @@ http://45.148.145.57/IN_STARPLUHD/index.m3u8
 http://45.148.145.57/IN_ZEEUKFHDuk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Movie", & TV_HD
 http://45.148.145.57/IN_And/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Movie", STAR ULSAT_HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Movie", STAR ULSAV_HD
 http://45.148.145.57/IN_UTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Movie", DANGAL TV_HD
 http://45.148.145.57/IN_Dangal/index.m3u8
@@ -7941,7 +7941,7 @@ http://45.148.145.57/IN_SonyMaxHD/index.m3u8
 http://45.148.145.57/IN_STGOLD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Movie", STAR GOLD MINES Bollywood_4K
 http://45.148.145.57/IN_STARGOLDSELECT/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Movie", STAR U MOVIE
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Movie",  UTSAV GOLD
 http://45.148.145.57/IN_STU/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Movie", GEMINI_MOVIES_HD
 http://45.148.145.57/IN_G2/index.m3u8
